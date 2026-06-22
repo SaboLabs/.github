@@ -1,23 +1,30 @@
-# 🛡️ SaboLabs
+# 🔬 SaboLabs
 
-**Independent security research & automation.**
+**Independent Security Research & Automation Laboratory**
 
-We hunt bugs, break exploits, build agents — across Web3, blockchain, and infrastructure.
-
-## 🔬 Focus Areas
-- **Smart Contract Auditing** — EVM, Solidity, DeFi protocols  
-- **Bug Bounty** — Immunefi, web3 platforms, infrastructure  
-- **Autonomous Agents** — Browser automation, MCP tools, crypto ops  
-- **CTF & Exploit Research** — Web3, crypto, reverse engineering  
-
-## 📦 Repos
-- `security-audits` — Audit reports & methodology  
-- `bounty-hunting` — Bug bounty tools & automation  
-- `automation-agents` — Agent toolkits & workflows  
-- `ctf-solutions` — CTF writeups & solutions  
-- `contributions` — OSS contributions (GrantFox, etc.)  
-- `playground` — PoCs, spikes, experiments
+Specializing in Web3 security, smart contract auditing, bug bounty programs, and autonomous agent development.
 
 ---
 
-> *Auditing code so you don't have to.*
+### 🛡️ What We Do
+
+| | Area |
+|---|---|
+| **Audit** | Smart contract security reviews, DeFi protocol analysis |
+| **Bounty** | Actively hunt on Immunefi, GrantFox, Hats Finance |
+| **Automation** | Autonomous AI agents for security research & DevSecOps |
+| **CTF** | Capture The Flag challenges across Web3 & infrastructure |
+
+### 📦 Public Repositories
+
+| Repo | Type |
+|---|---|
+| `security-audits` | Public audit reports |
+| `bounty-hunting` | Bug bounty tools & findings |
+| `automation-agents` | Autonomous security agent code |
+| `ctf-solutions` | CTF writeups & solutions |
+| `contributions` | OSS contributions & GrantFox work |
+
+---
+
+*Securing the decentralized future, one byte at a time.* 🚀
